@@ -1,0 +1,134 @@
+{
+  "fonte": "Edital TJSP nº 02/2026 — Anexo VIII (Conteúdo Programático) e Capítulo X (Julgamento da prova objetiva)",
+  "observacao": "texto_edital reproduz o texto do edital. Nenhum assunto foi acrescentado além do que está no Anexo VIII. A prioridade (1 alta, 3 baixa) é decisão de estudo do aluno, não do edital.",
+  "blocos": [
+    {
+      "codigo": "I", "nome": "Língua Portuguesa", "ordem": 1, "num_questoes": 16,
+      "eliminatorio": true, "minimo_acertos_pct": 50,
+      "disciplinas": [
+        {
+          "codigo": "portugues", "nome": "Língua Portuguesa", "ordem": 1, "num_questoes": 16, "prioridade": 1,
+          "assuntos": [
+            {"ref": "1", "titulo": "Compreensão e interpretação de textos", "texto": "Análise, compreensão e interpretação de diversos tipos de textos verbais, não verbais, literários e não literários."},
+            {"ref": "2", "titulo": "Informações literais e inferências", "texto": "Informações literais e inferências possíveis."},
+            {"ref": "3", "titulo": "Ponto de vista do autor", "texto": "Ponto de vista do autor."},
+            {"ref": "4", "titulo": "Estruturação do texto e coesão", "texto": "Estruturação do texto: relações entre ideias; recursos de coesão."},
+            {"ref": "5", "titulo": "Significação contextual", "texto": "Significação contextual de palavras e expressões."},
+            {"ref": "6", "titulo": "Sinônimos e antônimos", "texto": "Sinônimos e antônimos."},
+            {"ref": "7", "titulo": "Sentido próprio e figurado", "texto": "Sentido próprio e figurado das palavras."},
+            {"ref": "8", "titulo": "Classes de palavras", "texto": "Classes de palavras: emprego e sentido que imprimem às relações que estabelecem: substantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição e conjunção."},
+            {"ref": "9", "titulo": "Concordância verbal e nominal", "texto": "Concordância verbal e nominal."},
+            {"ref": "10", "titulo": "Regência verbal e nominal", "texto": "Regência verbal e nominal."},
+            {"ref": "11", "titulo": "Colocação pronominal", "texto": "Colocação pronominal."},
+            {"ref": "12", "titulo": "Crase", "texto": "Crase."},
+            {"ref": "13", "titulo": "Pontuação", "texto": "Pontuação."}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "II", "nome": "Conhecimentos em Direito", "ordem": 2, "num_questoes": 30,
+      "eliminatorio": true, "minimo_acertos_pct": 50,
+      "disciplinas": [
+        {
+          "codigo": "direito_penal", "nome": "Direito Penal", "ordem": 1, "num_questoes": null, "prioridade": 1,
+          "assuntos": [
+            {"ref": "1", "titulo": "Código Penal", "texto": "Código Penal – artigos 293 a 305; 307; 308; 311-A; 312 a 317; 319 a 333; 336 e 337; 339 a 347; 357 e 359."}
+          ]
+        },
+        {
+          "codigo": "direito_processual_penal", "nome": "Direito Processual Penal", "ordem": 2, "num_questoes": null, "prioridade": 1,
+          "assuntos": [
+            {"ref": "2", "titulo": "Código de Processo Penal", "texto": "Código de Processo Penal – artigos 251 a 258; 261 a 267; 274; 351 a 372; 394 a 497; 531 a 538; 541 a 548; 574 a 667"},
+            {"ref": "2", "titulo": "Lei n.º 9.099/1995 (parte penal)", "texto": "Lei n.º 9.099 de 26.09.1995 (artigos 60 a 83; 88 e 89)."}
+          ]
+        },
+        {
+          "codigo": "direito_processual_civil", "nome": "Direito Processual Civil", "ordem": 3, "num_questoes": null, "prioridade": 1,
+          "assuntos": [
+            {"ref": "3.1", "titulo": "Código de Processo Civil", "texto": "Código de Processo Civil – artigos 144 a 155; 188 a 275; 294 a 311 e do 318 a 538; 994 a 1026;"},
+            {"ref": "3.2", "titulo": "Lei n.º 9.099/1995 (parte cível)", "texto": "Lei n.º 9.099 de 26.09.1995 (artigos 3º ao 19)"},
+            {"ref": "3.3", "titulo": "Lei n.º 12.153/2009", "texto": "Lei n.º 12.153 de 22/12/2009."}
+          ]
+        },
+        {
+          "codigo": "direito_constitucional", "nome": "Direito Constitucional", "ordem": 4, "num_questoes": null, "prioridade": 1,
+          "assuntos": [
+            {"ref": "4", "titulo": "Constituição Federal", "texto": "Constituição Federal – Título II – Capítulos I, II e III; e Título III – Capítulo VII com Seções I e II; e também o artigo 92."}
+          ]
+        },
+        {
+          "codigo": "direito_administrativo", "nome": "Direito Administrativo", "ordem": 5, "num_questoes": null, "prioridade": 1,
+          "assuntos": [
+            {"ref": "5.1", "titulo": "Estatuto dos Funcionários Públicos Civis do Estado de São Paulo", "texto": "Estatuto dos Funcionários Públicos Civis do Estado de São Paulo (Lei n.º 10.261/68) – artigos 1º a 86; 171 a 175; 239 a 323"},
+            {"ref": "5.2", "titulo": "Lei de Improbidade Administrativa", "texto": "Lei Federal n.º 8.429/92 (Lei de Improbidade Administrativa)."}
+          ]
+        },
+        {
+          "codigo": "legislacao_interna", "nome": "Legislação Interna do TJSP", "ordem": 6, "num_questoes": null, "prioridade": 1,
+          "assuntos": [
+            {"ref": "6.1", "titulo": "Resolução TJSP nº 850/2021 (teletrabalho)", "texto": "Resolução TJSP nº 850/2021 (Regulamenta o teletrabalho no âmbito do Tribunal de Justiça do Estado de São Paulo e dá outras providências)."},
+            {"ref": "6.2", "titulo": "Resolução TJSP nº 963/2025 (eproc)", "texto": "Resolução TJSP nº 963/2025 (Dispõe sobre a governança e utilização do sistema eproc nas unidades do Poder Judiciário do Estado de São Paulo e dá outras providências)."},
+            {"ref": "6.2", "titulo": "Lei Complementar nº 1.111/2010 (Plano de Cargos e Carreiras)", "texto": "Lei Complementar n° 1.111/ 2010 (Institui o Plano de Cargos e Carreiras dos servidores do Tribunal de Justiça do Estado de São Paulo e dá providências correlatas)."},
+            {"ref": "6.3", "titulo": "Regimento Interno do Tribunal de Justiça", "texto": "Regimento Interno do Tribunal de Justiça."},
+            {"ref": "6.4", "titulo": "Normas da Corregedoria Geral da Justiça", "texto": "Normas da Corregedoria Geral da Justiça: Tomo I – Capítulo II: Seção I – subseções I e II; Tomo I – Capítulo III: Seções I, II, V, VI, VII; Tomo I – Capítulo III: Seção VIII – subseções I, II e III; Tomo I – Capítulo III: Seções IX a XIX; Tomo I – Capítulo XI: Seção I a VII."}
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "III", "nome": "Conhecimentos Gerais", "ordem": 3, "num_questoes": 24,
+      "eliminatorio": false, "minimo_acertos_pct": null,
+      "disciplinas": [
+        {
+          "codigo": "atualidades", "nome": "Atualidades", "ordem": 1, "num_questoes": 4, "prioridade": 3,
+          "assuntos": [
+            {"ref": "1", "titulo": "Fatos políticos, econômicos, sociais e culturais", "texto": "Questões relacionadas a fatos políticos, econômicos, sociais e culturais, nacionais e internacionais, ocorridos a partir do 1° semestre de 2026, divulgados na mídia local e/ou nacional;"},
+            {"ref": "2", "titulo": "Estatuto da Pessoa com Deficiência", "texto": "Artigos 1º ao 13; 34 ao 38 da Lei n.º 13.146/2015 – Estatuto da Pessoa com Deficiência, com as alterações vigentes até a publicação deste edital."}
+          ]
+        },
+        {
+          "codigo": "matematica", "nome": "Matemática", "ordem": 2, "num_questoes": 4, "prioridade": 3,
+          "assuntos": [
+            {"ref": "1", "titulo": "Operações com números reais", "texto": "Operações com números reais."},
+            {"ref": "2", "titulo": "MMC e MDC", "texto": "Mínimo múltiplo comum e máximo divisor comum."},
+            {"ref": "3", "titulo": "Razão e proporção", "texto": "Razão e proporção."},
+            {"ref": "4", "titulo": "Porcentagem", "texto": "Porcentagem."},
+            {"ref": "5", "titulo": "Regra de três simples e composta", "texto": "Regra de três simples e composta."},
+            {"ref": "6", "titulo": "Média aritmética simples e ponderada", "texto": "Média aritmética simples e ponderada."},
+            {"ref": "7", "titulo": "Juros simples", "texto": "Juros simples."},
+            {"ref": "8", "titulo": "Equação do 1.º e 2.º graus", "texto": "Equação do 1.º e 2.º graus."},
+            {"ref": "9", "titulo": "Sistema de equações do 1.º grau", "texto": "Sistema de equações do 1.º grau."},
+            {"ref": "10", "titulo": "Relação entre grandezas: tabelas e gráficos", "texto": "Relação entre grandezas: tabelas e gráficos."},
+            {"ref": "11", "titulo": "Sistemas de medidas usuais", "texto": "Sistemas de medidas usuais."},
+            {"ref": "12", "titulo": "Noções de geometria", "texto": "Noções de geometria: forma, perímetro, área, volume, ângulo, teorema de Pitágoras."},
+            {"ref": "13", "titulo": "Resolução de situações-problema", "texto": "Resolução de situações-problema."}
+          ]
+        },
+        {
+          "codigo": "informatica", "nome": "Informática", "ordem": 3, "num_questoes": 9, "prioridade": 2,
+          "descricao_edital": "O edital apresenta o conteúdo de Informática em um único parágrafo; a separação em assuntos abaixo apenas organiza esse parágrafo por aplicativo, sem acrescentar tópicos.",
+          "assuntos": [
+            {"ref": "único", "titulo": "MS-Windows 10 ou superior", "texto": "MS-Windows 10 ou superior: conceito de pastas, diretórios, arquivos e atalhos, área de trabalho, área de transferência, manipulação de arquivos e pastas, uso dos menus, programas e aplicativos, interação com o conjunto de aplicativos do Microsoft-365:"},
+            {"ref": "único", "titulo": "MS-Word", "texto": "MS-Word: estrutura básica dos documentos, edição e formatação de textos, cabeçalhos, parágrafos, fontes, colunas, marcadores simbólicos e numéricos, tabelas, impressão, controle de quebras e numeração de páginas, legendas, índices, inserção de objetos, campos predefinidos, caixas de texto."},
+            {"ref": "único", "titulo": "MS-Excel", "texto": "MS-Excel: estrutura básica das planilhas, conceitos de células, linhas, colunas, pastas e gráficos, elaboração de tabelas e gráficos, uso de fórmulas, funções e macros, impressão, inserção de objetos, campos predefinidos, controle de quebras e numeração de páginas, obtenção de dados externos, classificação de dados."},
+            {"ref": "único", "titulo": "Correio eletrônico", "texto": "Correio Eletrônico: uso de correio eletrônico, preparo e envio de mensagens, anexação de arquivos."},
+            {"ref": "único", "titulo": "Internet", "texto": "Internet: navegação internet, conceitos de URL, links, sites, busca e impressão de páginas."},
+            {"ref": "único", "titulo": "MS Teams", "texto": "MS Teams: chats, chamadas de áudio e vídeo, criação de grupos, trabalho em equipe: Word, Excel, PowerPoint, SharePoint e OneNote, agendamento de reuniões e gravação."},
+            {"ref": "único", "titulo": "OneDrive", "texto": "OneDrive: armazenamento e compartilhamento de arquivos."}
+          ]
+        },
+        {
+          "codigo": "raciocinio_logico", "nome": "Raciocínio Lógico", "ordem": 4, "num_questoes": 7, "prioridade": 2,
+          "descricao_edital": "Entendimento da estrutura lógica das relações arbitrárias entre pessoas, lugares, coisas, eventos fictícios; dedução de novas informações das relações fornecidas e avaliação das condições usadas para estabelecer a estrutura daquelas relações. Identificação das regularidades de uma sequência, numérica ou figural, de modo a indicar qual é o elemento de uma dada posição. As questões desta prova poderão tratar das seguintes áreas: estruturas lógicas, lógicas de argumentação, diagramas lógicos, sequências.",
+          "assuntos": [
+            {"ref": "área", "titulo": "Estruturas lógicas", "texto": "estruturas lógicas"},
+            {"ref": "área", "titulo": "Lógicas de argumentação", "texto": "lógicas de argumentação"},
+            {"ref": "área", "titulo": "Diagramas lógicos", "texto": "diagramas lógicos"},
+            {"ref": "área", "titulo": "Sequências", "texto": "sequências"}
+          ]
+        }
+      ]
+    }
+  ]
+}

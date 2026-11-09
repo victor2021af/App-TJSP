@@ -1,0 +1,10 @@
+# dados do aluno: nunca versionar
+backend/data/
+certs/
+# ambientes e builds
+backend/.venv/
+**/__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+*.log

@@ -1,0 +1,8 @@
+# Versões mínimas testadas pelo autor do código (não foi possível instalar neste ambiente de build;
+# consulte "Verificação" no README). Fixe versões exatas com `pip freeze` após o primeiro `instalar.bat`.
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+python-multipart>=0.0.9      # upload de imagens (Fase 5)
+tzdata>=2024.1               # fuso horário no Windows (zoneinfo não tem base de fusos própria lá)
+pypdf>=4.0
